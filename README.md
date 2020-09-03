@@ -18,7 +18,7 @@ Switch to the repo folder
 Run the npm installation script
 
     `npm i or npm install`
-    
+
 Copy `.env.sample` file and create `.env` file, and change the values according to your configuration like:
   
   ```
